@@ -1,2 +1,3 @@
 a = str(input())
-print(a[0:2])
+reg = (a[0:2])
+print(reg)
